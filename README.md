@@ -17,6 +17,7 @@ The work for this Master's thesis was performed for the [Applied Artificial Inte
 
 ## Questions:
 Any commercialization questions, concerns, etc. can be forwarded to:
-- University of Texas Office of Technology Commericialization (Neal.Guentzel2@utsa.edu and bvillwock@otc.utexas.edu)
+- University of Texas at San Antonio Office of Commericialization and Innovation (neal.guentzel2@utsa.edu)
+- University of Texas Office of Technology Commericialization (bvillwock@otc.utexas.edu)
 
 Any technical questions, concerns, etc. can be sent to me.
