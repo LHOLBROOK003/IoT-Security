@@ -15,8 +15,8 @@ Corresponding patent application can be found below:
 ## Research Lab:
 The work for this Master's thesis was performed for the [Applied Artificial Intelligence Lab](https://sites.google.com/view/aai-lab/home) at UTSA.
 
-## Questions:
-Any commercialization questions, concerns, etc. can be forwarded to:
+## Licensing Questions:
+Any patent licensing and technology commercialization questions, concerns, etc. can be forwarded to:
 - University of Texas at San Antonio Office of Commericialization and Innovation (neal.guentzel2@utsa.edu)
 - University of Texas Office of Technology Commericialization (bvillwock@otc.utexas.edu)
 
